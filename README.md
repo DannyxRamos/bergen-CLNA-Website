@@ -15,6 +15,11 @@ The CLNA Google Site provides stakeholders with:
 - Produced static visuals for both the **previous CLNA cycle** and the **current cycle** with updated survey results
 - Used **Python** to automate cleaning and formatting of SurveyMonkey data, creating a streamlined process so that future survey data can be efficiently processed and turned into visuals for the website
 
+![CLNA Google Site Surveys Page](clna-website-surveys-page.png)
+
+*Screenshot: The Surveys section of the CLNA Google Site, where stakeholders access survey links and summaries of feedback results.*
+
+
 ## Tools used
 - **Python** — Data cleaning, formatting, and preparation of SurveyMonkey survey results
 - **SurveyMonkey** — Survey deployment and raw data collection
