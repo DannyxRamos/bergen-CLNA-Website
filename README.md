@@ -9,7 +9,7 @@ The CLNA Google Site provides stakeholders with:
 - Links to student, faculty, and stakeholder surveys
 - Data on CTE job growth and labor market trends
 
-## My contributions
+My contributions
 - Took ownership of maintaining and updating the CLNA Google Site
 - Enhanced the site by creating and embedding **static data visualizations** summarizing student, faculty, and stakeholder survey feedback
 - Produced static visuals for both the **previous CLNA cycle** and the **current cycle** with updated survey results
@@ -20,7 +20,7 @@ The CLNA Google Site provides stakeholders with:
 *Screenshot: The Surveys section of the CLNA Google Site, where stakeholders access survey links and summaries of feedback results.*
 
 
-## Tools used
+Tools used
 - **Python** — Data cleaning, formatting, and preparation of SurveyMonkey survey results
 - **SurveyMonkey** — Survey deployment and raw data collection
 - **Google Sites** — Website content management and updates
@@ -32,6 +32,6 @@ To streamline reporting and support transparency, I developed a Python script th
 📄 [View the full script → `survey_chart_generator_demo.py`](./survey_chart_generator_demo.py)
 
 
-## 📌 Notes
+Notes
 - This repository does not contain actual survey data, website content, or student responses due to confidentiality.
 - Synthetic examples of visuals and cleaned data structures can be provided as portfolio samples.
