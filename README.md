@@ -2,14 +2,14 @@
 
 As part of my role as Research Analyst at Bergen Community College, I took over management of the **CLNA Google Site**, a private website accessible to invited stakeholders attending CLNA meetings. The site serves as a central resource for sharing information about the college’s Career and Technical Education (CTE) programs and Perkins V activities.
 
-Purpose of the website
+## Purpose of the website
 The CLNA Google Site provides stakeholders with:
 - Information about Perkins V funding and priorities
 - Access to meeting materials, reports, and resources
 - Links to student, faculty, and stakeholder surveys
 - Data on CTE job growth and labor market trends
 
-My contributions
+## My contributions
 - Took ownership of maintaining and updating the CLNA Google Site
 - Enhanced the site by creating and embedding **static data visualizations** summarizing student, faculty, and stakeholder survey feedback
 - Produced static visuals for both the **previous CLNA cycle** and the **current cycle** with updated survey results
@@ -20,7 +20,7 @@ My contributions
 *Screenshot: The Surveys section of the CLNA Google Site, where stakeholders access survey links and summaries of feedback results.*
 
 
-Tools used
+## Tools used
 - **Python** — Data cleaning, formatting, and preparation of SurveyMonkey survey results
 - **SurveyMonkey** — Survey deployment and raw data collection
 - **Google Sites** — Website content management and updates
