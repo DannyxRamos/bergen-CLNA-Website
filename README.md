@@ -2,7 +2,7 @@
 
 As part of my role as Research Analyst at Bergen Community College, I took over management of the **CLNA Google Site**, a private website accessible to invited stakeholders attending CLNA meetings. The site serves as a central resource for sharing information about the college’s Career and Technical Education (CTE) programs and Perkins V activities.
 
-## Purpose of the website
+Purpose of the website
 The CLNA Google Site provides stakeholders with:
 - Information about Perkins V funding and priorities
 - Access to meeting materials, reports, and resources
@@ -25,6 +25,12 @@ The CLNA Google Site provides stakeholders with:
 - **SurveyMonkey** — Survey deployment and raw data collection
 - **Google Sites** — Website content management and updates
 - **Excel / charts tools** — Creation of static visuals to summarize survey results
+
+## Code Sample: Automated Visualization Generator
+To streamline reporting and support transparency, I developed a Python script that automates the generation of summary charts from survey data. These visualizations are embedded on the CLNA Google Site to give stakeholders a quick, accessible view of student, faculty, and stakeholder feedback.
+
+📄 [View the full script → `survey_chart_generator_demo.py`](./survey_chart_generator_demo.py)
+
 
 ## 📌 Notes
 - This repository does not contain actual survey data, website content, or student responses due to confidentiality.
