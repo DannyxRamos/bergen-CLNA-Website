@@ -32,6 +32,6 @@ To streamline reporting and support transparency, I developed a Python script th
 📄 [View the full script → `survey_chart_generator_demo.py`](./survey_chart_generator_demo.py)
 
 
-Notes
+## Notes
 - This repository does not contain actual survey data, website content, or student responses due to confidentiality.
 - Synthetic examples of visuals and cleaned data structures can be provided as portfolio samples.
